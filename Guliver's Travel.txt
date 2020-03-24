@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+<h1><center><u><em>Gulliver's Travels</u></em></center></h1><!--using emphasing tag and underling tag-->
+  <p>Gulliver's Travels, or Travels into Several Remote Nations of the World. In Four 
+    Parts. By Lemuel Gulliver,First a Surgeon, and then a Captain of Several Ships is
+    a prose  of 1726 by the Irish writer and clergyman Jonathan Swift, 
+    satirising both human nature and the "travellers' tales" literary subgenre. It
+    is Swift's best known full-length work, and a classic of English literature. Swift
+    claimed that he wrote Gulliver's Travels "to vex the world rather than divert it".
+    The book was an immediate success. The English dramatist John Gay remarked "It is
+    universally read, from the cabinet council to the nursery. In 2015, Robert
+    McCrum released his selection list of 100 best novels of all time in which Gulliver's 
+    Travels is listed as a satirical masterpiece</p>
+  <!--added a image for better user experence-->
+  <!--using div tag-->
+  <!--logicaly dividing the codes-->
+  <div>    
+    <b>
+      <marquee width = "65%" direction = "right">Gulliver's Travels</marquee>
+    </b><!--marquee is used for animation of the word-->
+  </div>
+  
+  <div>
+  <img src = "http://upload.wikimedia.org/wikipedia/commons/4/43/Gullivers_travels.jpg" alt = "Gulliver's Travels
+"/>
+
+   </div>
+  
+  <h4>All the chapters of Gulliver's Travels</h4>
+  <!--the table code is seprated from the whole programm-->
+  <div>
+  <table border = "1">
+    <tr>
+      <td><center><b>part</b></center></td>
+      <td><center><b>chapter's name</b></center></td>
+    </tr>
+    <tr>
+      <td><center>1</center></td>
+      <td> A Voyage to Lilliput</td>
+    </tr>
+    <tr>
+      <td><center>2</center></td>
+      <td> A Voyage to Brobdingnag</td>
+    </tr>
+    <tr>
+      <td><center>3</center></td>
+      <td>A Voyage to Laputa, Balnibarbi, Luggnagg, Glubbdubdrib and Japan</td>
+    </tr>
+    <tr>
+      <td><center>4</center></td>
+      <td>A Voyage to the Land of the Houyhnhnms</td>
+    </tr>
+    </table>
+    </div>
+  
+  <h3>Summary</h3>
+  <p>The book is written in the first person from the point of view of <a href = "https://en.wikipedia.org/wiki/Lemuel_Gulliver">Lemuel Gulliver</a>, a surgeon and sea captain who 
+    visits remote regions of the world, and it describes four adventures. In the first one, Gulliver is the only survivor
+    of a shipwreck, and he swims to Lilliput, where he is tied up by people who are less than 6 inches (15 cm) tall. He is
+    then taken to the capital city and eventually released. The Lilliputians indulge in ridiculous customs and petty 
+    debates. Political affiliations, for example, are divided between men who wear high-heeled shoes (symbolic of the
+    English Tories) and those who wear low ones (representing the English Whigs), and court positions are filled by those
+    who are best at rope dancing.<br> Gulliver is asked to help defend Lilliput against the empire of Blefuscu, with which
+    Lilliput is at war over which end of an egg should be broken, this being a matter of religious doctrine. Gulliver
+    captures Blefuscu’s naval fleet, thus preventing an invasion, but declines to assist the emperor of Lilliput in
+    conquering Blefuscu. Later Gulliver extinguishes a fire in the royal palace by urinating on it. Eventually he falls out
+    of favour and is sentenced to be blinded and starved. He flees to Blefuscu, where he finds a normal-size boat and is
+    thus able to return to England.
+   Gulliver’s second voyage takes him to Brobdingnag, inhabited by a race of giants. A farm worker finds Gulliver and
+    delivers him to the farm owner. The farmer begins exhibiting Gulliver for money, and the farmer’s young daughter,
+    Glumdalclitch, takes care of him. <br>One day the queen orders the farmer to bring Gulliver to her, and she purchases 
+    Gulliver. He becomes a favourite at court, though the king reacts with contempt when Gulliver recounts the splendid 
+    achievements of his own civilization. The king responds to Gulliver’s description of the government and history of
+    England by concluding that the English must be a race of “odious vermin.” Gulliver offers to make gunpowder and cannon
+    for the king, but the king is horrified by the thought of such weaponry. Eventually Gulliver is picked up by an eagle
+    and then rescued at sea by people of his own size.</p>
+  <p> For more information<a href = "https://en.wikipedia.org/wiki/Gulliver%27s_Travels"> clike here</a></p>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
