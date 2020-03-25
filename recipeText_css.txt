@@ -1,0 +1,43 @@
+/*background color of the body*/
+body
+{
+  background-color:tomato;
+  /* there r many color options like
+  red,orange,cornsilk*/
+}
+
+p
+{
+  font-size:22px;
+  margin : 10px 20px 30px 40px
+    /*we can also write
+    margin-top : 10px;
+    margin-right : 20px;
+    margin-bottom : 30px;
+    margin-left : 40px;
+    */
+}
+/*fontsize has been changed of
+odered list and unordered list*/
+ol
+{
+  font-size:20px;
+  margin : 20px;
+}
+
+ul
+{
+  font-size:20px;
+  margin : 20px;
+}
+/*padding of main heading has been done here*/
+h1
+{
+  font-size : 55px;
+  margin : 40px;
+}
+
+img
+{
+  margin : 20px;
+}
